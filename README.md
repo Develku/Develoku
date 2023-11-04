@@ -1,5 +1,5 @@
 # Develoku
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:Develku-->
+<!--END_SECTION:Develku-->
