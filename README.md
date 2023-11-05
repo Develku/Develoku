@@ -5,42 +5,42 @@ This is CV
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-729.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-958.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 16.1 kB Used in GitHub's Storage 
+> 📦 21.7 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2023
+> 🏆 11 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                17 commits          ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-🌆 Daytime                17 commits          ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-🌃 Evening                16 commits          ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-🌙 Night                  9 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+🌞 Morning                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+🌆 Daytime                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+🌃 Evening                159 commits         █████████████████░░░░░░░░   69.43 % 
+🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Thursday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Friday                   20 commits          ████████░░░░░░░░░░░░░░░░░   33.90 % 
-Saturday                 25 commits          ███████████░░░░░░░░░░░░░░   42.37 % 
-Sunday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Wednesday                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Thursday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Saturday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Sunday                   165 commits         ██████████████████░░░░░░░   72.05 % 
 ```
 
 
@@ -73,7 +73,8 @@ Mac                      7 hrs 20 mins       ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     2 repos             █████████████████████████   100.00 % 
+HTML                     2 repos             █████████████████░░░░░░░░   66.67 % 
+SCSS                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 
@@ -83,5 +84,5 @@ HTML                     2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/develku/develku/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2023 15:32:13 UTC
+ Last Updated on 05/11/2023 15:32:20 UTC
 <!--END_SECTION:waka-->
