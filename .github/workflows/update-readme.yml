@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 * * * *" # Runs every hour
   workflow_dispatch:
+permissions:
+  contents: write # To write the generated contents to the readme
 jobs:
   update-readme:
     name: Update Readme for RSS Reader
@@ -11,8 +13,10 @@ jobs:
     steps:
       # it is crucial in my git Actions workflow becuase it checks out  the repository under $GITHUB_WORKSPACE.
       # It allows your workflow to access it.
+      - name: Checkout
       - uses: actions/checkout@v3
       # sets up a Node.js environment and configures.
+      - name: nodejs_environment
       - uses: actions/setup-node@v3
         with:
           node-version: 16
