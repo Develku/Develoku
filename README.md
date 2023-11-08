@@ -2,7 +2,8 @@
 
 This is CV
 
-Check out the latest articles from my blog: RSS Feed
+Check out the latest articles from my blog: 
+![RSS Feed](https://rss.app/feeds/xbSbBnYY4nmlgZQR.xml)
 
 
 
