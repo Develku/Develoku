@@ -4,6 +4,10 @@ This is CV
 
 <rssapp-wall id="ttn0j4BIdOBQLG08"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
 
+<ul>
+  <li><a href="[ttn0j4BIdOBQLG08k]">[feed item title]</a></li>
+  </ul>
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
