@@ -13,9 +13,9 @@ jobs:
       # It allows your workflow to access it.
       - uses: actions/checkout@v3
       # sets up a Node.js environment and configures.
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v3
         with:
-          node-version: "16"
+          node-version: 16
       - name: Install dependencies
         run: npm install rss-parser
       - name: Fetch RSS feed and update README
