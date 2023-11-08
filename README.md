@@ -2,14 +2,6 @@
 
 <h2>CV Test</h2>
 
-import Parser from 'rss-parser';
-let parser = new Parser();
-const feed = await parser.parseURL('https://rss.app/feeds/v1.1/yQfNfCLqGV4LtTkg.json');
-for (const item of feed.items) {
-    console.log(item.title);
-    console.log(item.link);
-}
-
 
 
 <!--START_SECTION:waka-->
