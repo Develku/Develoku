@@ -3,9 +3,10 @@ name: Update README
 on:
   schedule:
     - cron: "0 * * * *" # Runs every hour
-
+  workflow_dispatch:
 jobs:
   update-readme:
+    name: Update Readme for RSS Reader
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
