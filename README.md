@@ -2,8 +2,9 @@
 
 <h2>CV Test</h2>
 
-<!-- FEED-START -->
-<!-- FEED-END -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
