@@ -2,6 +2,8 @@
 
 This is CV
 
+Check out the latest articles from my blog: RSS Feed
+
 
 
 <!--START_SECTION:waka-->
