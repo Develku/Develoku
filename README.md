@@ -3,7 +3,7 @@
 This is CV
 
 Check out the latest articles from my blog: 
-![RSS Feed](https://rss.app/feeds/xbSbBnYY4nmlgZQR.xml)
+![RSS Feed](https://rss.app/feeds/ttn0j4BIdOBQLG08.xml)
 
 
 
