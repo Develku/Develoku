@@ -5,7 +5,8 @@ on:
     - cron: "0 * * * *" # Runs every hour
   workflow_dispatch:
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
+  issues: write
 jobs:
   update-readme:
     name: Update Readme for RSS Reader
