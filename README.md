@@ -3,8 +3,7 @@
 This is CV
 
 Check out the latest articles from my blog: 
-![RSS Feed](https://rss.app/feeds/ttn0j4BIdOBQLG08.xml)
-
+![test](https://rss.app/feeds/ttn0j4BIdOBQLG08.xml)
 
 
 <!--START_SECTION:waka-->
