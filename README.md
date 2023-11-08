@@ -2,7 +2,7 @@
 
 This is CV
 
-<iframe width="900" height="1600" src="https://rss.app/embed/v1/wall/ttn0j4BIdOBQLG08" frameborder="0"></iframe>
+<rssapp-wall id="ttn0j4BIdOBQLG08"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
 
 
 <!--START_SECTION:waka-->
