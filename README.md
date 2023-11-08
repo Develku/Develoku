@@ -2,10 +2,9 @@
 
 <h2>CV Test</h2>
 
-<p>
-  <rssapp-wall id="ttn0j4BIdOBQLG08"></rssapp-wall>
-  <script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
-</p>
+<!-- FEED-START -->
+<!-- FEED-END -->
+
 
 
 <!--START_SECTION:waka-->
