@@ -2,8 +2,7 @@
 
 This is CV
 
-<!-- FEED-START -->
-<!-- FEED-END -->
+<iframe width="900" height="1600" src="https://rss.app/embed/v1/wall/ttn0j4BIdOBQLG08" frameborder="0"></iframe>
 
 
 <!--START_SECTION:waka-->
