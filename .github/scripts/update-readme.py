@@ -48,10 +48,11 @@ def update_blog_posts():
 
 def update_readme(blog_posts_markdown):
     if blog_posts_markdown:
+        readme_path = 'develku/README.md'
         print("Updating README with the latest blog posts.")
         try:
             # Open the README file in read mode
-            with open('README.md', 'r') as f:
+            with open(readme_path, 'r') as f:
                 readme = f.read()
 
             # Define the start and end markers
@@ -71,7 +72,7 @@ def update_readme(blog_posts_markdown):
                     blog_posts_markdown + readme[end_index:]
 
                 # Write the updated README content back to the README.md file
-                with open('README.md', 'w') as f:
+                with open(readme_path, 'w') as f:
                     f.write(updated_readme)
 
                 print("README updated successfully.")
