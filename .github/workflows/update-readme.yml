@@ -18,4 +18,4 @@ jobs:
       - name: Install Dependencies
         run: pip install requests beautifulsoup4
       - name: Update README
-        run: python .github/scripts/update-readme.py
+        run: python src/update-readme.py
