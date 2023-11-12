@@ -41,7 +41,7 @@ def update_blog_posts():
 
 def update_readme(blog_posts_markdown):
     if blog_posts_markdown:
-        readme_path = 'develku/develkud/README.md'
+        readme_path = 'README.md'
         print("Updating README with the latest blog posts.")
         try:
             # Open the README file in read mode
