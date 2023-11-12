@@ -10,27 +10,20 @@ def update_blog_posts():
     try:
         response = requests.get(base_url)
 
-        # Check if the request was successful
         if response.status_code == 200:
-            # Parse the HTML data from the response
             soup = BeautifulSoup(response.text, 'html.parser')
 
-            # Find the table body in the HTML
-            # NOTE: The actual class or HTML structure may vary, adjust the selector accordingly
-            table_body = soup.find('tbody', {'class': 'table-view-tbody'})
-            # Find all table rows in the table body
-            rows = table_body.find_all('tr')
+            # Find all 'tr' elements in the 'tbody' with class 'table-view-tbody'
+            rows = soup.find('tbody', class_='table-view-tbody').find_all('tr')
 
-            # Initialize the blog posts content with a heading
             blog_posts_markdown = ""
 
-            # Loop over each table row
             for row in rows:
-                # Extract the title and link from the link element in the row
-                title = row.find('a').text
-                link = base_url + row.find('a')['href']
+                # The title and link are within 'a' tags inside the first 'td' of each row
+                link_tag = row.find('td').find('a')
+                title = link_tag.text.strip()
+                link = base_url + link_tag['href']
 
-                # Add the title and link to the blog posts content
                 blog_posts_markdown += f"- [{title}]({link})\n"
 
             print("Blog posts fetched successfully.")
