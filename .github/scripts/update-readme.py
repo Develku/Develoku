@@ -75,7 +75,22 @@ def update_readme(blog_posts_markdown):
         print("No blog posts markdown to update README.")
 
 
+def git_commit_and_push():
+    try:
+        # Stage the README.md file
+        subprocess.run(["git", "add", "README.md"], check=True)
+        # Commit the changes
+        subprocess.run(
+            ["git", "commit", "-m", "Update README with the latest blog posts"], check=True)
+        # Push the changes back to the repository
+        subprocess.run(["git", "push"], check=True)
+        print("Pushed the changes to the repository successfully.")
+    except subprocess.CalledProcessError as e:
+        print(f"An error occurred while committing and pushing: {e}")
+
+
 # Main execution
 if __name__ == "__main__":
     blog_posts_markdown = update_blog_posts()
     update_readme(blog_posts_markdown)
+    git_commit_and_push()  # Call this new function to commit and push changes

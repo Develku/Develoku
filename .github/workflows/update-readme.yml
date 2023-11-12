@@ -10,12 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true # Allows the workflow to push commits back to the repository
+          fetch-depth: 0 # Fetches all history for .git objects and refs
+
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
           python-version: "3.x"
+
       - name: Install Dependencies
         run: pip install requests beautifulsoup4
+
       - name: Update README
         run: python .github/scripts/update-readme.py
