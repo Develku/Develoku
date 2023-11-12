@@ -57,15 +57,4 @@ waka-readme-stats-4      42 mins             ░░░░░░░░░░░�
 ## [Blog Articles](https://my-digital-garden-green-seven.vercel.app/)
 
 <!--START_SECTION:blog-->
-
-- [Create Blog from your Obsidian Vault](https://my-digital-garden-green-seven.vercel.app/4-archive/how-to-use-obsidian/create-blog-from-your-obsidian-vault/)
-- [Digital Garden Home](https://my-digital-garden-green-seven.vercel.app/)
-- [GitHub Sync - Setup and use](https://my-digital-garden-green-seven.vercel.app/3-resource/mac-tips/git-hub-sync-setup-and-use/)
-- [Loop Statements in Python](https://my-digital-garden-green-seven.vercel.app/1-project/python/python-fundamental/loop-statements-in-python/)
-- [List Basic](https://my-digital-garden-green-seven.vercel.app/1-project/python/python-fundamental/list-basic/)
-- [unpacking \*](https://my-digital-garden-green-seven.vercel.app/1-project/python/unpacking/)
-- [Finding Prime Numbers](https://my-digital-garden-green-seven.vercel.app/1-project/python/finding-prime-numbers/)
-- [isinstance() - Check Object Type](https://my-digital-garden-green-seven.vercel.app/1-project/python/isinstance-check-object-type/)
-- [enumerate() function (Basic -> Ultimate)](https://my-digital-garden-green-seven.vercel.app/404)
-- [Dictionary dict = {key, value}](https://my-digital-garden-green-seven.vercel.app/1-project/python/python-fundamental/dictionary-dict-key-value/)
 <!--END_SECTION:blog-->
