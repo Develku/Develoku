@@ -15,19 +15,15 @@ jobs:
         with:
           persist-credentials: true # Allows the workflow to push commits back to the repository
           fetch-depth: 0 # Fetches all history for .git objects and refs
-
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
           python-version: "3.x"
-
       - name: Install Dependencies
         run: pip install requests beautifulsoup4
-
-        - name: Set up Git identity
+      - name: Set up Git identity
         run: |
           git config --global user.name ${{ secrets.GIT_USER_NAME }}
           git config --global user.email ${{ secrets.GIT_USER_EMAIL }}
-      
       - name: Update README
         run: python .github/scripts/update-readme.py
