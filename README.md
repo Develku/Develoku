@@ -57,14 +57,14 @@ github_repo              38 mins             ░░░░░░░░░░░�
 ## [Blog Articles](https://my-digital-garden-green-seven.vercel.app/)
 
 <!--START_SECTION:blog-->
-- [Chat PDF](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-hands-on/langchain/chat-pdf/)
-- [Using LLaMA 2 for AI Poem Generator](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-hands-on/langchain/using-l-la-ma-2-for-ai-poem-generator/)
+- [GitHub Profile Blog Update with Web Scraping](https://my-digital-garden-green-seven.vercel.app/404)
+- [Chat PDF](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/langchain/chat-pdf/)
+- [Using LLaMA 2 for AI Poem Generator](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/langchain/using-l-la-ma-2-for-ai-poem-generator/)
 - [Anaconda and Pip Commands](https://my-digital-garden-green-seven.vercel.app/3-resource/mac-tips/anaconda-and-pip-commands/)
-- [Langchain AI Poem Generator](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-hands-on/langchain/langchain-ai-poem-generator/)
+- [Langchain AI Poem Generator](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/langchain/langchain-ai-poem-generator/)
 - [What is GitHub?](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/what-is-git-hub/)
 - [Create Blog from your Obsidian Vault](https://my-digital-garden-green-seven.vercel.app/4-archive/how-to-use-obsidian/create-blog-from-your-obsidian-vault/)
 - [Digital Garden Home](https://my-digital-garden-green-seven.vercel.app/)
 - [GitHub Sync - Setup and use](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/git-hub-sync-setup-and-use/)
 - [Universal Clipboard sharing](https://my-digital-garden-green-seven.vercel.app/3-resource/mac-tips/universal-clipboard-sharing/)
-- [iTerm2 Installation](https://my-digital-garden-green-seven.vercel.app/3-resource/mac-tips/i-term2-installation/)
 <!--END_SECTION:blog-->
