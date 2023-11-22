@@ -56,14 +56,14 @@ Gunbot Code              6 mins              ░░░░░░░░░░░�
 ## [Blog Articles](https://my-digital-garden-green-seven.vercel.app/)
 
 <!--START_SECTION:blog-->
-- [GitHub Profile Blog Update with Web Scraping](https://my-digital-garden-green-seven.vercel.app/404)
-- [Chat PDF](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/langchain/chat-pdf/)
+- [Fixed IP Set Up in Local Network](https://my-digital-garden-green-seven.vercel.app/3-resource/ubuntu-linux/fixed-ip-set-up-in-local-network/)
+- [Disable Eject Disk Warning on & off on Mac](https://my-digital-garden-green-seven.vercel.app/3-resource/mac-tips/disable-eject-disk-warning-on-and-off-on-mac/)
+- [Toggle Background sounds on mac](https://my-digital-garden-green-seven.vercel.app/3-resource/mac-tips/toggle-background-sounds-on-mac/)
+- [Hostname (check, change) = computer name](https://my-digital-garden-green-seven.vercel.app/3-resource/ubuntu-linux/hostname-check-change-computer-name/)
+- [Enable SSH Server in Ubuntu 22.04 LTS](https://my-digital-garden-green-seven.vercel.app/3-resource/ubuntu-linux/enable-ssh-server-in-ubuntu-22-04-lts/)
+- [SSH Key Connection to Linux](https://my-digital-garden-green-seven.vercel.app/3-resource/ubuntu-linux/ssh-key-connection-to-linux/)
+- [GitHub Profile - Blog Article Update with Web Scraping](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/git-hub-profile-blog-article-update-with-web-scraping/)
+- [Chat PDF with Langchain](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/langchain/chat-pdf-with-langchain/)
 - [Using LLaMA 2 for AI Poem Generator](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/langchain/using-l-la-ma-2-for-ai-poem-generator/)
 - [Anaconda and Pip Commands](https://my-digital-garden-green-seven.vercel.app/3-resource/mac-tips/anaconda-and-pip-commands/)
-- [Langchain AI Poem Generator](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/langchain/langchain-ai-poem-generator/)
-- [What is GitHub?](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/what-is-git-hub/)
-- [Create Blog from your Obsidian Vault](https://my-digital-garden-green-seven.vercel.app/4-archive/how-to-use-obsidian/create-blog-from-your-obsidian-vault/)
-- [Digital Garden Home](https://my-digital-garden-green-seven.vercel.app/)
-- [GitHub Sync - Setup and use](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/git-hub-sync-setup-and-use/)
-- [Universal Clipboard sharing](https://my-digital-garden-green-seven.vercel.app/3-resource/mac-tips/universal-clipboard-sharing/)
 <!--END_SECTION:blog-->
