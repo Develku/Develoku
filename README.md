@@ -1,6 +1,7 @@
 <h1> Develku </h1>
 
-<h2>CV Test</h2>
+Aspiring DevOps Engineer/Solution Architect, dedicated to leveraging extensive knowledge in cloud computing and serverless architecture. Adept at deploying and managing cloud infrastructure, particularly with AWS services. Seeking to contribute to and grow within a forward-thinking company.
+
 
 ---
 
