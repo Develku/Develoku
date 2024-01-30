@@ -59,6 +59,8 @@ pythonProject            0 secs              ░░░░░░░░░░░�
 ## [Blog Articles](https://my-digital-garden-green-seven.vercel.app/)
 
 <!--START_SECTION:blog-->
+- [ComfyUI Local Install & ComfyUI Manager On Apple Silicon](https://my-digital-garden-green-seven.vercel.app/3-resource/stable-diffusion/comfy-ui-local-install-and-comfy-ui-manager-on-apple-silicon/)
+- [AWS - Bedrock - Diffusion Models_Image Creation](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-bedrock/aws-bedrock-diffusion-models-image-creation/)
 - [Text Summarization Project with Bedrock](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-bedrock/text-summarization-project-with-bedrock/)
 - [AWS bedrock code generation](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-bedrock/aws-bedrock-code-generation/)
 - [resolv.conf - DNS Error](https://my-digital-garden-green-seven.vercel.app/3-resource/ubuntu-linux/resolv-conf-dns-error/)
@@ -67,6 +69,4 @@ pythonProject            0 secs              ░░░░░░░░░░░�
 - [Deploy API](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-projects/deploy-api/)
 - [Setup CORS (Cross-Origin Resource Sharing)](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-projects/setup-cors-cross-origin-resource-sharing/)
 - [Adding API Gateway to trigger Lambda Function](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-projects/adding-api-gateway-to-trigger-lambda-function/)
-- [First Lambda Function](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-projects/first-lambda-function/)
-- [Display Resolution Change](https://my-digital-garden-green-seven.vercel.app/3-resource/mac-tips/display-resolution-change/)
 <!--END_SECTION:blog-->
