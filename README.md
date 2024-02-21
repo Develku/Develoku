@@ -59,6 +59,7 @@ pythonProject            0 secs              ░░░░░░░░░░░�
 ## [Blog Articles](https://my-digital-garden-green-seven.vercel.app/)
 
 <!--START_SECTION:blog-->
+- [GitHub Blog Creation (1)](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/git-hub-blog/git-hub-blog-creation-1/)
 - [ComfyUI Local Install Linux on AWS EC2](https://my-digital-garden-green-seven.vercel.app/3-resource/stable-diffusion/comfy-ui-local-install-linux-on-aws-ec-2/)
 - [ComfyUI Local Install & ComfyUI Manager On Apple Silicon](https://my-digital-garden-green-seven.vercel.app/3-resource/stable-diffusion/comfy-ui-local-install-and-comfy-ui-manager-on-apple-silicon/)
 - [AWS - Bedrock - Diffusion Models_Image Creation](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-bedrock/aws-bedrock-diffusion-models-image-creation/)
@@ -68,5 +69,4 @@ pythonProject            0 secs              ░░░░░░░░░░░�
 - [scp - File Transfer from remote by SHH](https://my-digital-garden-green-seven.vercel.app/3-resource/ubuntu-linux/scp-file-transfer-from-remote-by-shh/)
 - [Retrieving Conversation with the API](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-projects/retrieving-conversation-with-the-api/)
 - [Deploy API](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-projects/deploy-api/)
-- [Setup CORS (Cross-Origin Resource Sharing)](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-projects/setup-cors-cross-origin-resource-sharing/)
 <!--END_SECTION:blog-->
