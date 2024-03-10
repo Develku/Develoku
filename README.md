@@ -59,14 +59,14 @@ pythonProject            0 secs              ░░░░░░░░░░░�
 ## [Blog Articles](https://my-digital-garden-green-seven.vercel.app/)
 
 <!--START_SECTION:blog-->
-- [GitHub Blog Creation (1)](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/git-hub-blog/git-hub-blog-creation-1/)
+- [Github Blog Creation (5) - Favicon Setting](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/git-hub-blog/github-blog-creation-5-favicon-setting/)
+- [Github Blog Creation (4) - Page View Size Control](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/git-hub-blog/github-blog-creation-4-page-view-size-control/)
+- [GitHub Blog Creation (3) - Profile, Header, Footer, Top menu, and TOC.](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/git-hub-blog/git-hub-blog-creation-3-profile-header-footer-top-menu-and-toc/)
+- [GitHub Blog Creation (2) - Install Jekyll](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/git-hub-blog/git-hub-blog-creation-2-install-jekyll/)
+- [GitHub Blog Creation (1) - GitHub Step](https://my-digital-garden-green-seven.vercel.app/3-resource/git-hub-related/git-hub-blog/git-hub-blog-creation-1-git-hub-step/)
 - [ComfyUI Local Install Linux on AWS EC2](https://my-digital-garden-green-seven.vercel.app/3-resource/stable-diffusion/comfy-ui-local-install-linux-on-aws-ec-2/)
 - [ComfyUI Local Install & ComfyUI Manager On Apple Silicon](https://my-digital-garden-green-seven.vercel.app/3-resource/stable-diffusion/comfy-ui-local-install-and-comfy-ui-manager-on-apple-silicon/)
 - [AWS - Bedrock - Diffusion Models_Image Creation](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-bedrock/aws-bedrock-diffusion-models-image-creation/)
 - [Text Summarization Project with Bedrock](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-bedrock/text-summarization-project-with-bedrock/)
 - [AWS bedrock code generation](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-bedrock/aws-bedrock-code-generation/)
-- [resolv.conf - DNS Error](https://my-digital-garden-green-seven.vercel.app/3-resource/ubuntu-linux/resolv-conf-dns-error/)
-- [scp - File Transfer from remote by SHH](https://my-digital-garden-green-seven.vercel.app/3-resource/ubuntu-linux/scp-file-transfer-from-remote-by-shh/)
-- [Retrieving Conversation with the API](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-projects/retrieving-conversation-with-the-api/)
-- [Deploy API](https://my-digital-garden-green-seven.vercel.app/1-project/solution-architect/personal-projects/aws-projects/deploy-api/)
 <!--END_SECTION:blog-->
